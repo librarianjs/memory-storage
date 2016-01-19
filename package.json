@@ -1,0 +1,19 @@
+{
+  "name": "librarian-memory-storage",
+  "version": "1.0.0",
+  "description": "LibrarianJS in memory storage plugin",
+  "main": "lib/InMemoryStorage.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/librarianjs/memory-storage.git"
+  },
+  "author": "Josh Vanderwillik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/librarianjs/memory-storage/issues"
+  },
+  "homepage": "https://github.com/librarianjs/memory-storage"
+}
